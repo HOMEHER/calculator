@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE/Editor 檔案
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# 系統檔案
+node_modules/
+.env
+.env.local
